@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T05:52:45Z",
+  "generated_at": "2026-09-23T05:42:19Z",
   "platforms": [
     "instagram",
     "facebook",
@@ -46,7 +46,8 @@
       "2026-08-29",
       "2026-08-30",
       "2026-08-31",
-      "2026-09-01"
+      "2026-09-01",
+      "2026-09-23"
     ],
     "facebook": [
       "2026-04-22",
@@ -80,12 +81,14 @@
       "2026-08-28",
       "2026-08-29",
       "2026-08-31",
-      "2026-09-01"
+      "2026-09-01",
+      "2026-09-23"
     ],
     "reddit": [
       "2026-04-23",
       "2026-06-25",
-      "2026-08-31"
+      "2026-08-31",
+      "2026-09-23"
     ],
     "tiktok": [
       "2026-04-23",
@@ -113,7 +116,8 @@
       "2026-08-27",
       "2026-08-28",
       "2026-08-29",
-      "2026-08-30"
+      "2026-08-30",
+      "2026-09-23"
     ]
   },
   "volume_by_day": [
@@ -410,17 +414,24 @@
       "facebook": 2,
       "reddit": 0,
       "tiktok": 0
+    },
+    {
+      "date": "2026-09-23",
+      "instagram": 18,
+      "facebook": 1,
+      "reddit": 4,
+      "tiktok": 8
     }
   ],
   "sentiment_by_platform": {
     "instagram": {
-      "neutral": 175,
-      "positive": 153,
+      "neutral": 191,
+      "positive": 155,
       "negative": 10
     },
     "facebook": {
       "positive": 46,
-      "neutral": 5,
+      "neutral": 6,
       "negative": 9
     },
     "reddit": {
@@ -428,14 +439,14 @@
       "negative": 2
     },
     "tiktok": {
-      "neutral": 96,
-      "positive": 149,
+      "neutral": 97,
+      "positive": 154,
       "negative": 1
     }
   },
   "predefined_topics": {
     "pricing": 126,
-    "style": 252,
+    "style": 259,
     "authenticity": 2,
     "customer-service": 17,
     "shipping": 6
@@ -447,19 +458,24 @@
       "example": "Pp"
     },
     {
+      "theme": "positive reaction",
+      "count": 22,
+      "example": "❤️❤️"
+    },
+    {
       "theme": "general appreciation",
       "count": 21,
       "example": "💯"
     },
     {
-      "theme": "positive reaction",
+      "theme": "beautiful design",
       "count": 21,
-      "example": "❤️❤️"
+      "example": "Beautiful"
     },
     {
-      "theme": "beautiful design",
-      "count": 20,
-      "example": "Beautiful"
+      "theme": "unclear comment",
+      "count": 16,
+      "example": "Pp"
     },
     {
       "theme": "product link request",
@@ -467,14 +483,14 @@
       "example": "Link"
     },
     {
-      "theme": "unclear comment",
-      "count": 15,
-      "example": "Pp"
-    },
-    {
       "theme": "general positive feedback",
       "count": 15,
       "example": "Verygood ❤️"
+    },
+    {
+      "theme": "brand label",
+      "count": 15,
+      "example": "Designer"
     },
     {
       "theme": "inquire price",
@@ -682,21 +698,16 @@
       "example": "You can get it for real at azafashions ♥️"
     },
     {
-      "theme": "love saree origin",
+      "theme": "gorgeous aesthetic",
       "count": 3,
-      "example": "Love the saree where did you get it from ?"
-    },
-    {
-      "theme": "General positive reaction",
-      "count": 2,
-      "example": "💯"
+      "example": "Gorgeous!!!!!"
     }
   ],
   "top_commenters": [
     {
       "author": "meena_ji1506",
       "platform": "instagram",
-      "count": 50
+      "count": 52
     },
     {
       "author": "Meena Shah",
@@ -734,12 +745,12 @@
       "count": 11
     },
     {
-      "author": "monaachari1",
+      "author": "azaylia66",
       "platform": "tiktok",
-      "count": 10
+      "count": 11
     },
     {
-      "author": "azaylia66",
+      "author": "monaachari1",
       "platform": "tiktok",
       "count": 10
     },
@@ -799,6 +810,21 @@
       "count": 9
     },
     {
+      "author": "andidrums",
+      "platform": "tiktok",
+      "count": 9
+    },
+    {
+      "author": "kaurnavpreet1376",
+      "platform": "tiktok",
+      "count": 9
+    },
+    {
+      "author": "daeljankn1",
+      "platform": "tiktok",
+      "count": 9
+    },
+    {
       "author": "Ekta Sharma",
       "platform": "facebook",
       "count": 8
@@ -810,21 +836,6 @@
     },
     {
       "author": "hr07haryana7",
-      "platform": "tiktok",
-      "count": 8
-    },
-    {
-      "author": "andidrums",
-      "platform": "tiktok",
-      "count": 8
-    },
-    {
-      "author": "kaurnavpreet1376",
-      "platform": "tiktok",
-      "count": 8
-    },
-    {
-      "author": "daeljankn1",
       "platform": "tiktok",
       "count": 8
     },
@@ -951,6 +962,11 @@
       "dominant_sentiment": "neutral"
     },
     {
+      "subreddit": "lineup_sweep",
+      "count": 3,
+      "dominant_sentiment": null
+    },
+    {
       "subreddit": "HOT_RP_INDIA",
       "count": 1,
       "dominant_sentiment": "neutral"
@@ -959,7 +975,12 @@
       "subreddit": "WeddingLehengaHub",
       "count": 1,
       "dominant_sentiment": "neutral"
+    },
+    {
+      "subreddit": "fpv",
+      "count": 1,
+      "dominant_sentiment": null
     }
   ],
-  "reddit_uncertain_count": 2
+  "reddit_uncertain_count": 6
 }
