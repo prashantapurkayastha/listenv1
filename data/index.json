@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T05:42:19Z",
+  "generated_at": "2026-09-24T06:03:56Z",
   "platforms": [
     "instagram",
     "facebook",
@@ -47,7 +47,8 @@
       "2026-08-30",
       "2026-08-31",
       "2026-09-01",
-      "2026-09-23"
+      "2026-09-23",
+      "2026-09-24"
     ],
     "facebook": [
       "2026-04-22",
@@ -117,7 +118,8 @@
       "2026-08-28",
       "2026-08-29",
       "2026-08-30",
-      "2026-09-23"
+      "2026-09-23",
+      "2026-09-24"
     ]
   },
   "volume_by_day": [
@@ -421,12 +423,19 @@
       "facebook": 1,
       "reddit": 4,
       "tiktok": 8
+    },
+    {
+      "date": "2026-09-24",
+      "instagram": 4,
+      "facebook": 0,
+      "reddit": 0,
+      "tiktok": 8
     }
   ],
   "sentiment_by_platform": {
     "instagram": {
-      "neutral": 191,
-      "positive": 155,
+      "neutral": 193,
+      "positive": 156,
       "negative": 10
     },
     "facebook": {
@@ -439,14 +448,14 @@
       "negative": 2
     },
     "tiktok": {
-      "neutral": 97,
-      "positive": 154,
+      "neutral": 98,
+      "positive": 159,
       "negative": 1
     }
   },
   "predefined_topics": {
-    "pricing": 126,
-    "style": 259,
+    "pricing": 127,
+    "style": 265,
     "authenticity": 2,
     "customer-service": 17,
     "shipping": 6
@@ -454,7 +463,7 @@
   "auto_themes": [
     {
       "theme": "price inquiry",
-      "count": 77,
+      "count": 78,
       "example": "Pp"
     },
     {
@@ -553,6 +562,11 @@
       "example": "Love your outfit"
     },
     {
+      "theme": "gorgeous design details",
+      "count": 6,
+      "example": "The first one … gorgeous! The color. The fitting. The drape. The swing. The pleats. Everything!!"
+    },
+    {
       "theme": "product link inquiry",
       "count": 5,
       "example": "Link"
@@ -568,9 +582,9 @@
       "example": "Can I buy this outfit??"
     },
     {
-      "theme": "gorgeous design details",
+      "theme": "awesome beautiful look",
       "count": 5,
-      "example": "The first one … gorgeous! The color. The fitting. The drape. The swing. The pleats. Everything!!"
+      "example": "Awesome 👏 beautiful"
     },
     {
       "theme": "celebrity mention",
@@ -611,11 +625,6 @@
       "theme": "beautiful aesthetic",
       "count": 4,
       "example": "Beautiful ❤️❤️!"
-    },
-    {
-      "theme": "awesome beautiful look",
-      "count": 4,
-      "example": "Awesome 👏 beautiful"
     },
     {
       "theme": "pop culture reference",
@@ -707,7 +716,7 @@
     {
       "author": "meena_ji1506",
       "platform": "instagram",
-      "count": 52
+      "count": 53
     },
     {
       "author": "Meena Shah",
@@ -735,6 +744,11 @@
       "count": 13
     },
     {
+      "author": "azaylia66",
+      "platform": "tiktok",
+      "count": 12
+    },
+    {
       "author": "vikram1157",
       "platform": "tiktok",
       "count": 11
@@ -745,12 +759,22 @@
       "count": 11
     },
     {
-      "author": "azaylia66",
+      "author": "monaachari1",
       "platform": "tiktok",
-      "count": 11
+      "count": 10
     },
     {
-      "author": "monaachari1",
+      "author": "andidrums",
+      "platform": "tiktok",
+      "count": 10
+    },
+    {
+      "author": "kaurnavpreet1376",
+      "platform": "tiktok",
+      "count": 10
+    },
+    {
+      "author": "daeljankn1",
       "platform": "tiktok",
       "count": 10
     },
@@ -806,21 +830,6 @@
     },
     {
       "author": "sultan_2893",
-      "platform": "tiktok",
-      "count": 9
-    },
-    {
-      "author": "andidrums",
-      "platform": "tiktok",
-      "count": 9
-    },
-    {
-      "author": "kaurnavpreet1376",
-      "platform": "tiktok",
-      "count": 9
-    },
-    {
-      "author": "daeljankn1",
       "platform": "tiktok",
       "count": 9
     },
