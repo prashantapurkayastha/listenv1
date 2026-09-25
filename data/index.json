@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T06:03:56Z",
+  "generated_at": "2026-09-25T05:56:41Z",
   "platforms": [
     "instagram",
     "facebook",
@@ -48,7 +48,8 @@
       "2026-08-31",
       "2026-09-01",
       "2026-09-23",
-      "2026-09-24"
+      "2026-09-24",
+      "2026-09-25"
     ],
     "facebook": [
       "2026-04-22",
@@ -83,7 +84,8 @@
       "2026-08-29",
       "2026-08-31",
       "2026-09-01",
-      "2026-09-23"
+      "2026-09-23",
+      "2026-09-25"
     ],
     "reddit": [
       "2026-04-23",
@@ -119,7 +121,8 @@
       "2026-08-29",
       "2026-08-30",
       "2026-09-23",
-      "2026-09-24"
+      "2026-09-24",
+      "2026-09-25"
     ]
   },
   "volume_by_day": [
@@ -430,17 +433,24 @@
       "facebook": 0,
       "reddit": 0,
       "tiktok": 8
+    },
+    {
+      "date": "2026-09-25",
+      "instagram": 3,
+      "facebook": 1,
+      "reddit": 0,
+      "tiktok": 8
     }
   ],
   "sentiment_by_platform": {
     "instagram": {
       "neutral": 193,
-      "positive": 156,
+      "positive": 158,
       "negative": 10
     },
     "facebook": {
       "positive": 46,
-      "neutral": 6,
+      "neutral": 7,
       "negative": 9
     },
     "reddit": {
@@ -448,14 +458,14 @@
       "negative": 2
     },
     "tiktok": {
-      "neutral": 98,
-      "positive": 159,
+      "neutral": 99,
+      "positive": 164,
       "negative": 1
     }
   },
   "predefined_topics": {
     "pricing": 127,
-    "style": 265,
+    "style": 272,
     "authenticity": 2,
     "customer-service": 17,
     "shipping": 6
@@ -472,18 +482,18 @@
       "example": "❤️❤️"
     },
     {
+      "theme": "beautiful design",
+      "count": 22,
+      "example": "Beautiful"
+    },
+    {
       "theme": "general appreciation",
       "count": 21,
       "example": "💯"
     },
     {
-      "theme": "beautiful design",
-      "count": 21,
-      "example": "Beautiful"
-    },
-    {
       "theme": "unclear comment",
-      "count": 16,
+      "count": 17,
       "example": "Pp"
     },
     {
@@ -687,6 +697,11 @@
       "example": "Lovely ❤️"
     },
     {
+      "theme": "gorgeous design",
+      "count": 3,
+      "example": "Gorgeous ❤️"
+    },
+    {
       "theme": "meaningless comment",
       "count": 3,
       "example": "Pp"
@@ -705,18 +720,13 @@
       "theme": "brand information",
       "count": 3,
       "example": "You can get it for real at azafashions ♥️"
-    },
-    {
-      "theme": "gorgeous aesthetic",
-      "count": 3,
-      "example": "Gorgeous!!!!!"
     }
   ],
   "top_commenters": [
     {
       "author": "meena_ji1506",
       "platform": "instagram",
-      "count": 53
+      "count": 54
     },
     {
       "author": "Meena Shah",
@@ -746,7 +756,7 @@
     {
       "author": "azaylia66",
       "platform": "tiktok",
-      "count": 12
+      "count": 13
     },
     {
       "author": "vikram1157",
@@ -759,22 +769,22 @@
       "count": 11
     },
     {
-      "author": "monaachari1",
-      "platform": "tiktok",
-      "count": 10
-    },
-    {
       "author": "andidrums",
       "platform": "tiktok",
-      "count": 10
+      "count": 11
     },
     {
       "author": "kaurnavpreet1376",
       "platform": "tiktok",
-      "count": 10
+      "count": 11
     },
     {
       "author": "daeljankn1",
+      "platform": "tiktok",
+      "count": 11
+    },
+    {
+      "author": "monaachari1",
       "platform": "tiktok",
       "count": 10
     },
