@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T05:56:41Z",
+  "generated_at": "2026-09-26T05:58:53Z",
   "platforms": [
     "instagram",
     "facebook",
@@ -49,7 +49,8 @@
       "2026-09-01",
       "2026-09-23",
       "2026-09-24",
-      "2026-09-25"
+      "2026-09-25",
+      "2026-09-26"
     ],
     "facebook": [
       "2026-04-22",
@@ -85,13 +86,15 @@
       "2026-08-31",
       "2026-09-01",
       "2026-09-23",
-      "2026-09-25"
+      "2026-09-25",
+      "2026-09-26"
     ],
     "reddit": [
       "2026-04-23",
       "2026-06-25",
       "2026-08-31",
-      "2026-09-23"
+      "2026-09-23",
+      "2026-09-26"
     ],
     "tiktok": [
       "2026-04-23",
@@ -122,7 +125,8 @@
       "2026-08-30",
       "2026-09-23",
       "2026-09-24",
-      "2026-09-25"
+      "2026-09-25",
+      "2026-09-26"
     ]
   },
   "volume_by_day": [
@@ -440,32 +444,40 @@
       "facebook": 1,
       "reddit": 0,
       "tiktok": 8
+    },
+    {
+      "date": "2026-09-26",
+      "instagram": 23,
+      "facebook": 1,
+      "reddit": 17,
+      "tiktok": 8
     }
   ],
   "sentiment_by_platform": {
     "instagram": {
-      "neutral": 193,
-      "positive": 158,
+      "neutral": 209,
+      "positive": 161,
       "negative": 10
     },
     "facebook": {
-      "positive": 46,
+      "positive": 47,
       "neutral": 7,
       "negative": 9
     },
     "reddit": {
-      "neutral": 5,
-      "negative": 2
+      "neutral": 18,
+      "negative": 3,
+      "positive": 3
     },
     "tiktok": {
-      "neutral": 99,
-      "positive": 164,
+      "neutral": 100,
+      "positive": 169,
       "negative": 1
     }
   },
   "predefined_topics": {
     "pricing": 127,
-    "style": 272,
+    "style": 297,
     "authenticity": 2,
     "customer-service": 17,
     "shipping": 6
@@ -477,14 +489,14 @@
       "example": "Pp"
     },
     {
+      "theme": "beautiful design",
+      "count": 23,
+      "example": "Beautiful"
+    },
+    {
       "theme": "positive reaction",
       "count": 22,
       "example": "❤️❤️"
-    },
-    {
-      "theme": "beautiful design",
-      "count": 22,
-      "example": "Beautiful"
     },
     {
       "theme": "general appreciation",
@@ -495,6 +507,11 @@
       "theme": "unclear comment",
       "count": 17,
       "example": "Pp"
+    },
+    {
+      "theme": "designer fashion",
+      "count": 16,
+      "example": "Designer"
     },
     {
       "theme": "product link request",
@@ -552,6 +569,11 @@
       "example": "[Sticker] Love"
     },
     {
+      "theme": "gorgeous design details",
+      "count": 7,
+      "example": "The first one … gorgeous! The color. The fitting. The drape. The swing. The pleats. Everything!!"
+    },
+    {
       "theme": "gorgeous style",
       "count": 6,
       "example": "Gorgeous"
@@ -570,11 +592,6 @@
       "theme": "outfit appreciation",
       "count": 6,
       "example": "Love your outfit"
-    },
-    {
-      "theme": "gorgeous design details",
-      "count": 6,
-      "example": "The first one … gorgeous! The color. The fitting. The drape. The swing. The pleats. Everything!!"
     },
     {
       "theme": "product link inquiry",
@@ -610,6 +627,16 @@
       "theme": "beautiful style",
       "count": 4,
       "example": "Beautiful ❤️❤️"
+    },
+    {
+      "theme": "gorgeous design",
+      "count": 4,
+      "example": "Gorgeous ❤️"
+    },
+    {
+      "theme": "meaningless comment",
+      "count": 4,
+      "example": "Pp"
     },
     {
       "theme": "beautiful color",
@@ -672,6 +699,11 @@
       "example": "Pp"
     },
     {
+      "theme": "elegant design",
+      "count": 3,
+      "example": "Graceful"
+    },
+    {
       "theme": "link and price",
       "count": 3,
       "example": "Link n pp"
@@ -697,41 +729,21 @@
       "example": "Lovely ❤️"
     },
     {
-      "theme": "gorgeous design",
+      "theme": "Helltaker character",
       "count": 3,
-      "example": "Gorgeous ❤️"
-    },
-    {
-      "theme": "meaningless comment",
-      "count": 3,
-      "example": "Pp"
-    },
-    {
-      "theme": "color appreciation",
-      "count": 3,
-      "example": "[Sticker] 🔥🔥🔥 that color 🔥🔥🔥"
-    },
-    {
-      "theme": "cute, how to order",
-      "count": 3,
-      "example": "Wow that too cute. How can I order?"
-    },
-    {
-      "theme": "brand information",
-      "count": 3,
-      "example": "You can get it for real at azafashions ♥️"
+      "example": "Azazel doing some measurements, part 1 (by SATBOart)\n\nSauce.  &#32; submitted by &#32;  /u/Kapitan_Sladek   [link] &#32; [comments]"
     }
   ],
   "top_commenters": [
     {
       "author": "meena_ji1506",
       "platform": "instagram",
-      "count": 54
+      "count": 56
     },
     {
       "author": "Meena Shah",
       "platform": "facebook",
-      "count": 39
+      "count": 40
     },
     {
       "author": "azafashions",
@@ -749,14 +761,29 @@
       "count": 15
     },
     {
+      "author": "azaylia66",
+      "platform": "tiktok",
+      "count": 14
+    },
+    {
       "author": "reena.seeboruth1",
       "platform": "tiktok",
       "count": 13
     },
     {
-      "author": "azaylia66",
+      "author": "andidrums",
       "platform": "tiktok",
-      "count": 13
+      "count": 12
+    },
+    {
+      "author": "kaurnavpreet1376",
+      "platform": "tiktok",
+      "count": 12
+    },
+    {
+      "author": "daeljankn1",
+      "platform": "tiktok",
+      "count": 12
     },
     {
       "author": "vikram1157",
@@ -765,21 +792,6 @@
     },
     {
       "author": "deepbkhi0qc",
-      "platform": "tiktok",
-      "count": 11
-    },
-    {
-      "author": "andidrums",
-      "platform": "tiktok",
-      "count": 11
-    },
-    {
-      "author": "kaurnavpreet1376",
-      "platform": "tiktok",
-      "count": 11
-    },
-    {
-      "author": "daeljankn1",
       "platform": "tiktok",
       "count": 11
     },
@@ -976,6 +988,11 @@
   ],
   "reddit_subreddits": [
     {
+      "subreddit": "Helltaker",
+      "count": 17,
+      "dominant_sentiment": "neutral"
+    },
+    {
       "subreddit": "BollywoodFashion",
       "count": 5,
       "dominant_sentiment": "neutral"
@@ -1001,5 +1018,5 @@
       "dominant_sentiment": null
     }
   ],
-  "reddit_uncertain_count": 6
+  "reddit_uncertain_count": 23
 }
