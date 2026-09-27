@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T05:58:53Z",
+  "generated_at": "2026-09-27T06:24:07Z",
   "platforms": [
     "instagram",
     "facebook",
@@ -50,7 +50,8 @@
       "2026-09-23",
       "2026-09-24",
       "2026-09-25",
-      "2026-09-26"
+      "2026-09-26",
+      "2026-09-27"
     ],
     "facebook": [
       "2026-04-22",
@@ -94,7 +95,8 @@
       "2026-06-25",
       "2026-08-31",
       "2026-09-23",
-      "2026-09-26"
+      "2026-09-26",
+      "2026-09-27"
     ],
     "tiktok": [
       "2026-04-23",
@@ -126,7 +128,8 @@
       "2026-09-23",
       "2026-09-24",
       "2026-09-25",
-      "2026-09-26"
+      "2026-09-26",
+      "2026-09-27"
     ]
   },
   "volume_by_day": [
@@ -451,11 +454,18 @@
       "facebook": 1,
       "reddit": 17,
       "tiktok": 8
+    },
+    {
+      "date": "2026-09-27",
+      "instagram": 15,
+      "facebook": 0,
+      "reddit": 2,
+      "tiktok": 8
     }
   ],
   "sentiment_by_platform": {
     "instagram": {
-      "neutral": 209,
+      "neutral": 223,
       "positive": 161,
       "negative": 10
     },
@@ -476,8 +486,8 @@
     }
   },
   "predefined_topics": {
-    "pricing": 127,
-    "style": 297,
+    "pricing": 128,
+    "style": 308,
     "authenticity": 2,
     "customer-service": 17,
     "shipping": 6
@@ -485,7 +495,7 @@
   "auto_themes": [
     {
       "theme": "price inquiry",
-      "count": 78,
+      "count": 79,
       "example": "Pp"
     },
     {
@@ -504,6 +514,11 @@
       "example": "💯"
     },
     {
+      "theme": "product link request",
+      "count": 17,
+      "example": "Link"
+    },
+    {
       "theme": "unclear comment",
       "count": 17,
       "example": "Pp"
@@ -512,11 +527,6 @@
       "theme": "designer fashion",
       "count": 16,
       "example": "Designer"
-    },
-    {
-      "theme": "product link request",
-      "count": 15,
-      "example": "Link"
     },
     {
       "theme": "general positive feedback",
@@ -532,6 +542,11 @@
       "theme": "inquire price",
       "count": 13,
       "example": "Price ?"
+    },
+    {
+      "theme": "designer inquiry",
+      "count": 13,
+      "example": "which designer is this ?;"
     },
     {
       "theme": "Designer label",
@@ -689,11 +704,6 @@
       "example": "Smart"
     },
     {
-      "theme": "designer inquiry",
-      "count": 3,
-      "example": "which designer is this ?;"
-    },
-    {
       "theme": "request price",
       "count": 3,
       "example": "Pp"
@@ -738,7 +748,7 @@
     {
       "author": "meena_ji1506",
       "platform": "instagram",
-      "count": 56
+      "count": 57
     },
     {
       "author": "Meena Shah",
@@ -763,7 +773,7 @@
     {
       "author": "azaylia66",
       "platform": "tiktok",
-      "count": 14
+      "count": 15
     },
     {
       "author": "reena.seeboruth1",
@@ -773,17 +783,17 @@
     {
       "author": "andidrums",
       "platform": "tiktok",
-      "count": 12
+      "count": 13
     },
     {
       "author": "kaurnavpreet1376",
       "platform": "tiktok",
-      "count": 12
+      "count": 13
     },
     {
       "author": "daeljankn1",
       "platform": "tiktok",
-      "count": 12
+      "count": 13
     },
     {
       "author": "vikram1157",
@@ -976,12 +986,12 @@
       "count": 6
     },
     {
-      "author": "bhavinii.j",
-      "platform": "instagram",
-      "count": 5
+      "author": "gghjjj340",
+      "platform": "tiktok",
+      "count": 6
     },
     {
-      "author": "sujit_singh_rajput13",
+      "author": "bhavinii.j",
       "platform": "instagram",
       "count": 5
     }
@@ -999,7 +1009,7 @@
     },
     {
       "subreddit": "lineup_sweep",
-      "count": 3,
+      "count": 5,
       "dominant_sentiment": null
     },
     {
@@ -1018,5 +1028,5 @@
       "dominant_sentiment": null
     }
   ],
-  "reddit_uncertain_count": 23
+  "reddit_uncertain_count": 25
 }
