@@ -1,0 +1,53 @@
+[
+  {
+    "id": "fb_Y29tbWVudDoxNTU4MTIwODk2MzQzMjE4XzEwNzc1MjY5MjUxNzQzNTk=",
+    "platform": "facebook",
+    "handle": "@AzaFashions",
+    "post_url": "https://www.facebook.com/reel/1865796764405439/",
+    "parent_comment_id": null,
+    "author": "Meena Shah",
+    "text": "Magnificent",
+    "language": "english",
+    "like_count": 0,
+    "reply_count": 0,
+    "captured_at": "2026-09-28T06:21:51Z",
+    "posted_at": "2026-09-28T03:58:52.000Z",
+    "sentiment": "positive",
+    "topic_predefined": "style",
+    "topic_auto": "magnificent style"
+  },
+  {
+    "id": "fb_Y29tbWVudDoxNTU3NzI2MjY2MzgyNjgxXzIyMjgzOTcwNjEwNTY3MzY=",
+    "platform": "facebook",
+    "handle": "@AzaFashions",
+    "post_url": "https://www.facebook.com/reel/1578848883565235/",
+    "parent_comment_id": null,
+    "author": "Meena Shah",
+    "text": "Attractive",
+    "language": "english",
+    "like_count": 0,
+    "reply_count": 0,
+    "captured_at": "2026-09-28T06:21:51Z",
+    "posted_at": "2026-09-27T09:32:58.000Z",
+    "sentiment": "positive",
+    "topic_predefined": "style",
+    "topic_auto": "attractive design"
+  },
+  {
+    "id": "fb_Y29tbWVudDoxNTU3ODY4MjM2MzY4NDg0XzE3NjUxMTA4NDQ4ODAxNzE=",
+    "platform": "facebook",
+    "handle": "@AzaFashions",
+    "post_url": "https://www.facebook.com/reel/1666027755229064/",
+    "parent_comment_id": null,
+    "author": "Meena Shah",
+    "text": "Festive mood",
+    "language": "english",
+    "like_count": 0,
+    "reply_count": 0,
+    "captured_at": "2026-09-28T06:21:51Z",
+    "posted_at": "2026-09-27T13:04:42.000Z",
+    "sentiment": "positive",
+    "topic_predefined": "style",
+    "topic_auto": "festive occasion wear"
+  }
+]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T06:24:07Z",
+  "generated_at": "2026-09-28T06:26:49Z",
   "platforms": [
     "instagram",
     "facebook",
@@ -51,7 +51,8 @@
       "2026-09-24",
       "2026-09-25",
       "2026-09-26",
-      "2026-09-27"
+      "2026-09-27",
+      "2026-09-28"
     ],
     "facebook": [
       "2026-04-22",
@@ -88,7 +89,8 @@
       "2026-09-01",
       "2026-09-23",
       "2026-09-25",
-      "2026-09-26"
+      "2026-09-26",
+      "2026-09-28"
     ],
     "reddit": [
       "2026-04-23",
@@ -129,7 +131,8 @@
       "2026-09-24",
       "2026-09-25",
       "2026-09-26",
-      "2026-09-27"
+      "2026-09-27",
+      "2026-09-28"
     ]
   },
   "volume_by_day": [
@@ -461,16 +464,23 @@
       "facebook": 0,
       "reddit": 2,
       "tiktok": 8
+    },
+    {
+      "date": "2026-09-28",
+      "instagram": 47,
+      "facebook": 3,
+      "reddit": 0,
+      "tiktok": 8
     }
   ],
   "sentiment_by_platform": {
     "instagram": {
-      "neutral": 223,
-      "positive": 161,
+      "neutral": 265,
+      "positive": 165,
       "negative": 10
     },
     "facebook": {
-      "positive": 47,
+      "positive": 50,
       "neutral": 7,
       "negative": 9
     },
@@ -480,23 +490,33 @@
       "positive": 3
     },
     "tiktok": {
-      "neutral": 100,
-      "positive": 169,
+      "neutral": 102,
+      "positive": 174,
       "negative": 1
     }
   },
   "predefined_topics": {
-    "pricing": 128,
-    "style": 308,
-    "authenticity": 2,
+    "pricing": 131,
+    "style": 339,
+    "authenticity": 18,
     "customer-service": 17,
     "shipping": 6
   },
   "auto_themes": [
     {
       "theme": "price inquiry",
-      "count": 79,
+      "count": 80,
       "example": "Pp"
+    },
+    {
+      "theme": "designer inquiry",
+      "count": 29,
+      "example": "which designer is this ?;"
+    },
+    {
+      "theme": "positive reaction",
+      "count": 24,
+      "example": "❤️❤️"
     },
     {
       "theme": "beautiful design",
@@ -504,24 +524,24 @@
       "example": "Beautiful"
     },
     {
-      "theme": "positive reaction",
-      "count": 22,
-      "example": "❤️❤️"
-    },
-    {
       "theme": "general appreciation",
       "count": 21,
       "example": "💯"
     },
     {
-      "theme": "product link request",
-      "count": 17,
-      "example": "Link"
+      "theme": "fashion designer",
+      "count": 19,
+      "example": "Designer"
     },
     {
       "theme": "unclear comment",
-      "count": 17,
+      "count": 18,
       "example": "Pp"
+    },
+    {
+      "theme": "product link request",
+      "count": 17,
+      "example": "Link"
     },
     {
       "theme": "designer fashion",
@@ -544,11 +564,6 @@
       "example": "Price ?"
     },
     {
-      "theme": "designer inquiry",
-      "count": 13,
-      "example": "which designer is this ?;"
-    },
-    {
       "theme": "Designer label",
       "count": 13,
       "example": "Designer"
@@ -557,6 +572,11 @@
       "theme": "placeholder comment",
       "count": 8,
       "example": "Pp"
+    },
+    {
+      "theme": "gorgeous design details",
+      "count": 8,
+      "example": "The first one … gorgeous! The color. The fitting. The drape. The swing. The pleats. Everything!!"
     },
     {
       "theme": "Positive emoji reaction",
@@ -584,11 +604,6 @@
       "example": "[Sticker] Love"
     },
     {
-      "theme": "gorgeous design details",
-      "count": 7,
-      "example": "The first one … gorgeous! The color. The fitting. The drape. The swing. The pleats. Everything!!"
-    },
-    {
       "theme": "gorgeous style",
       "count": 6,
       "example": "Gorgeous"
@@ -614,6 +629,11 @@
       "example": "Link"
     },
     {
+      "theme": "meaningless comment",
+      "count": 5,
+      "example": "Pp"
+    },
+    {
       "theme": "delivery cancellation issue",
       "count": 5,
       "example": "Extreme scam. At time of ordering delivery date was showing in two weeks. After order was placed, delivery date changed to two months out. Asked to cancel the order since it was past the event timelin"
@@ -622,6 +642,11 @@
       "theme": "purchase inquiry",
       "count": 5,
       "example": "Can I buy this outfit??"
+    },
+    {
+      "theme": "beautiful aesthetic",
+      "count": 5,
+      "example": "Beautiful ❤️❤️!"
     },
     {
       "theme": "awesome beautiful look",
@@ -649,14 +674,14 @@
       "example": "Gorgeous ❤️"
     },
     {
-      "theme": "meaningless comment",
-      "count": 4,
-      "example": "Pp"
-    },
-    {
       "theme": "beautiful color",
       "count": 4,
       "example": "[Sticker] 🔥🔥🔥 that color 🔥🔥🔥"
+    },
+    {
+      "theme": "gorgeous aesthetic",
+      "count": 4,
+      "example": "Gorgeous!!!!!"
     },
     {
       "theme": "order and price",
@@ -674,14 +699,14 @@
       "example": "Who is designer ? How do we search the dress, no link"
     },
     {
-      "theme": "beautiful aesthetic",
-      "count": 4,
-      "example": "Beautiful ❤️❤️!"
-    },
-    {
       "theme": "pop culture reference",
       "count": 4,
       "example": "Michael Jackson would sign bad, right about that"
+    },
+    {
+      "theme": "pretty styling suggestion",
+      "count": 4,
+      "example": "Very pretty 😇✨ Add a nose ring for a whole new vibe 💅🔥 💖"
     },
     {
       "theme": "Price query",
@@ -727,21 +752,6 @@
       "theme": "delayed delivery, cancellation issue",
       "count": 3,
       "example": "Extreme scam. At time of ordering delivery date was showing in two weeks. After order was placed, delivery date changed to two months out. Asked to cancel the order since it was past the event timelin"
-    },
-    {
-      "theme": "positive feedback",
-      "count": 3,
-      "example": "Awesome"
-    },
-    {
-      "theme": "general praise",
-      "count": 3,
-      "example": "Lovely ❤️"
-    },
-    {
-      "theme": "Helltaker character",
-      "count": 3,
-      "example": "Azazel doing some measurements, part 1 (by SATBOart)\n\nSauce.  &#32; submitted by &#32;  /u/Kapitan_Sladek   [link] &#32; [comments]"
     }
   ],
   "top_commenters": [
@@ -753,7 +763,7 @@
     {
       "author": "Meena Shah",
       "platform": "facebook",
-      "count": 40
+      "count": 43
     },
     {
       "author": "azafashions",
@@ -763,7 +773,12 @@
     {
       "author": "aniljolly1",
       "platform": "instagram",
-      "count": 18
+      "count": 20
+    },
+    {
+      "author": "azaylia66",
+      "platform": "tiktok",
+      "count": 16
     },
     {
       "author": "itsshellyjee",
@@ -771,27 +786,22 @@
       "count": 15
     },
     {
-      "author": "azaylia66",
-      "platform": "tiktok",
-      "count": 15
-    },
-    {
-      "author": "reena.seeboruth1",
-      "platform": "tiktok",
-      "count": 13
-    },
-    {
       "author": "andidrums",
       "platform": "tiktok",
-      "count": 13
+      "count": 14
     },
     {
       "author": "kaurnavpreet1376",
       "platform": "tiktok",
-      "count": 13
+      "count": 14
     },
     {
       "author": "daeljankn1",
+      "platform": "tiktok",
+      "count": 14
+    },
+    {
+      "author": "reena.seeboruth1",
       "platform": "tiktok",
       "count": 13
     },
@@ -956,6 +966,16 @@
       "count": 7
     },
     {
+      "author": "gghjjj340",
+      "platform": "tiktok",
+      "count": 7
+    },
+    {
+      "author": "klistel.official",
+      "platform": "instagram",
+      "count": 6
+    },
+    {
       "author": "kalpana_kadel",
       "platform": "tiktok",
       "count": 6
@@ -984,16 +1004,6 @@
       "author": "shaheedshama0",
       "platform": "tiktok",
       "count": 6
-    },
-    {
-      "author": "gghjjj340",
-      "platform": "tiktok",
-      "count": 6
-    },
-    {
-      "author": "bhavinii.j",
-      "platform": "instagram",
-      "count": 5
     }
   ],
   "reddit_subreddits": [
