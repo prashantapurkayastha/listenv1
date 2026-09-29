@@ -1,0 +1,43 @@
+[2026-09-29T06:35:31.294347+00:00] instagram: scraping https://www.instagram.com/azafashions/ via Apify
+[2026-09-29T06:36:12.362907+00:00] instagram: scraped 45 items
+[2026-09-29T06:36:12.363165+00:00] instagram: classifying 45 new/changed items
+[2026-09-29T06:36:37.090669+00:00] facebook: scraping https://www.facebook.com/AzaFashions/ via Apify
+[2026-09-29T06:37:00.628854+00:00] facebook: scraped 0 items
+[2026-09-29T06:37:00.629032+00:00] reddit: scraping with terms=['Aza Fashions', 'AzaFashions', 'azafashions.com'] via Apify
+[2026-09-29T06:40:52.919713+00:00] reddit: scraped 0 raw items
+[2026-09-29T06:40:52.919848+00:00] reddit: 0 items after filter
+[2026-09-29T06:40:52.919915+00:00] tiktok: scraping https://www.tiktok.com/@azafashions via Apify
+[2026-09-29T06:40:53.181599+00:00] tiktok: FAILED — Your remaining usage of $0.477364 this billing cycle isn't enough for this run. Increase your limit by upgrading to a paid plan at https://console.apify.com/billing/subscription
+Traceback (most recent call last):
+  File "/home/runner/work/listenv1/listenv1/run.py", line 38, in run_platform
+    items = runner(url_or_terms)
+            ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/listenv1/listenv1/scrapers/tiktok.py", line 77, in run_sync
+    video_urls = _recent_video_urls(client, handle)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/listenv1/listenv1/scrapers/tiktok.py", line 52, in _recent_video_urls
+    run = client.actor(TIKTOK_PROFILE_ACTOR).call(run_input=run_input, timeout_secs=TIMEOUT_SECS)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/apify_client/_logging.py", line 86, in wrapper
+    return fun(resource_client, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/apify_client/clients/resource_clients/actor.py", line 367, in call
+    started_run = self.start(
+                  ^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/apify_client/_logging.py", line 86, in wrapper
+    return fun(resource_client, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/apify_client/clients/resource_clients/actor.py", line 306, in start
+    response = self.http_client.call(
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/apify_client/_http_client.py", line 213, in call
+    return retry_with_exp_backoff(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/apify_client/_utils.py", line 175, in retry_with_exp_backoff
+    return func(stop_retrying, attempt)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/apify_client/_http_client.py", line 211, in _make_request
+    raise ApifyApiError(response, attempt, method=method)
+apify_client.errors.ApifyApiError: Your remaining usage of $0.477364 this billing cycle isn't enough for this run. Increase your limit by upgrading to a paid plan at https://console.apify.com/billing/subscription
+
+[2026-09-29T06:40:53.194766+00:00] aggregate: index.json written

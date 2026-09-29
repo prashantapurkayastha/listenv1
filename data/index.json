@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T06:26:49Z",
+  "generated_at": "2026-09-29T06:40:53Z",
   "platforms": [
     "instagram",
     "facebook",
@@ -52,7 +52,8 @@
       "2026-09-25",
       "2026-09-26",
       "2026-09-27",
-      "2026-09-28"
+      "2026-09-28",
+      "2026-09-29"
     ],
     "facebook": [
       "2026-04-22",
@@ -471,12 +472,19 @@
       "facebook": 3,
       "reddit": 0,
       "tiktok": 8
+    },
+    {
+      "date": "2026-09-29",
+      "instagram": 45,
+      "facebook": 0,
+      "reddit": 0,
+      "tiktok": 0
     }
   ],
   "sentiment_by_platform": {
     "instagram": {
-      "neutral": 265,
-      "positive": 165,
+      "neutral": 293,
+      "positive": 178,
       "negative": 10
     },
     "facebook": {
@@ -497,8 +505,8 @@
   },
   "predefined_topics": {
     "pricing": 131,
-    "style": 339,
-    "authenticity": 18,
+    "style": 352,
+    "authenticity": 32,
     "customer-service": 17,
     "shipping": 6
   },
@@ -529,19 +537,24 @@
       "example": "💯"
     },
     {
+      "theme": "unclear comment",
+      "count": 20,
+      "example": "Pp"
+    },
+    {
       "theme": "fashion designer",
       "count": 19,
       "example": "Designer"
     },
     {
-      "theme": "unclear comment",
-      "count": 18,
-      "example": "Pp"
-    },
-    {
       "theme": "product link request",
       "count": 17,
       "example": "Link"
+    },
+    {
+      "theme": "designer mention",
+      "count": 17,
+      "example": "Designer"
     },
     {
       "theme": "designer fashion",
@@ -556,6 +569,11 @@
     {
       "theme": "brand label",
       "count": 15,
+      "example": "Designer"
+    },
+    {
+      "theme": "designer brand",
+      "count": 14,
       "example": "Designer"
     },
     {
@@ -612,11 +630,6 @@
       "theme": "general positive",
       "count": 6,
       "example": "Wow"
-    },
-    {
-      "theme": "designer mention",
-      "count": 6,
-      "example": "Designer"
     },
     {
       "theme": "outfit appreciation",
@@ -729,6 +742,11 @@
       "example": "Smart"
     },
     {
+      "theme": "very beautiful",
+      "count": 3,
+      "example": "So Beautiful 🥰😍💕"
+    },
+    {
       "theme": "request price",
       "count": 3,
       "example": "Pp"
@@ -742,23 +760,13 @@
       "theme": "link and price",
       "count": 3,
       "example": "Link n pp"
-    },
-    {
-      "theme": "aesthetic appreciation",
-      "count": 3,
-      "example": "Beautiful"
-    },
-    {
-      "theme": "delayed delivery, cancellation issue",
-      "count": 3,
-      "example": "Extreme scam. At time of ordering delivery date was showing in two weeks. After order was placed, delivery date changed to two months out. Asked to cancel the order since it was past the event timelin"
     }
   ],
   "top_commenters": [
     {
       "author": "meena_ji1506",
       "platform": "instagram",
-      "count": 57
+      "count": 58
     },
     {
       "author": "Meena Shah",
