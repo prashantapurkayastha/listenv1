@@ -1,0 +1,36 @@
+[
+  {
+    "id": "fb_Y29tbWVudDoxNTYwMjE4NzYyODAwMDk4XzE2OTc2NzYwMjEzMzI0ODc=",
+    "platform": "facebook",
+    "handle": "@AzaFashions",
+    "post_url": "https://www.facebook.com/reel/922795737292695/",
+    "parent_comment_id": null,
+    "author": "Meena Shah",
+    "text": "Lajawab",
+    "language": "unknown",
+    "like_count": 0,
+    "reply_count": 0,
+    "captured_at": "2026-09-30T06:20:24Z",
+    "posted_at": "2026-09-29T15:47:06.000Z",
+    "sentiment": null,
+    "topic_predefined": null,
+    "topic_auto": null
+  },
+  {
+    "id": "fb_Y29tbWVudDoxNTYwMDIyNTk2MTUzMDQ4Xzk2ODYxODMzOTYyMDgyNQ==",
+    "platform": "facebook",
+    "handle": "@AzaFashions",
+    "post_url": "https://www.facebook.com/reel/1743174443576275/",
+    "parent_comment_id": null,
+    "author": "Anita Mittal",
+    "text": "Designers",
+    "language": "unknown",
+    "like_count": 0,
+    "reply_count": 0,
+    "captured_at": "2026-09-30T06:20:24Z",
+    "posted_at": "2026-09-29T13:23:24.000Z",
+    "sentiment": null,
+    "topic_predefined": null,
+    "topic_auto": null
+  }
+]

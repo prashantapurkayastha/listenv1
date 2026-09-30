@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T06:40:53Z",
+  "generated_at": "2026-09-30T06:25:34Z",
   "platforms": [
     "instagram",
     "facebook",
@@ -53,7 +53,8 @@
       "2026-09-26",
       "2026-09-27",
       "2026-09-28",
-      "2026-09-29"
+      "2026-09-29",
+      "2026-09-30"
     ],
     "facebook": [
       "2026-04-22",
@@ -91,7 +92,8 @@
       "2026-09-23",
       "2026-09-25",
       "2026-09-26",
-      "2026-09-28"
+      "2026-09-28",
+      "2026-09-30"
     ],
     "reddit": [
       "2026-04-23",
@@ -99,7 +101,8 @@
       "2026-08-31",
       "2026-09-23",
       "2026-09-26",
-      "2026-09-27"
+      "2026-09-27",
+      "2026-09-30"
     ],
     "tiktok": [
       "2026-04-23",
@@ -479,12 +482,19 @@
       "facebook": 0,
       "reddit": 0,
       "tiktok": 0
+    },
+    {
+      "date": "2026-09-30",
+      "instagram": 30,
+      "facebook": 2,
+      "reddit": 4,
+      "tiktok": 0
     }
   ],
   "sentiment_by_platform": {
     "instagram": {
-      "neutral": 293,
-      "positive": 178,
+      "neutral": 320,
+      "positive": 180,
       "negative": 10
     },
     "facebook": {
@@ -505,9 +515,9 @@
   },
   "predefined_topics": {
     "pricing": 131,
-    "style": 352,
+    "style": 358,
     "authenticity": 32,
-    "customer-service": 17,
+    "customer-service": 18,
     "shipping": 6
   },
   "auto_themes": [
@@ -517,13 +527,18 @@
       "example": "Pp"
     },
     {
+      "theme": "designer mention",
+      "count": 39,
+      "example": "Designer"
+    },
+    {
       "theme": "designer inquiry",
       "count": 29,
       "example": "which designer is this ?;"
     },
     {
       "theme": "positive reaction",
-      "count": 24,
+      "count": 25,
       "example": "❤️❤️"
     },
     {
@@ -550,11 +565,6 @@
       "theme": "product link request",
       "count": 17,
       "example": "Link"
-    },
-    {
-      "theme": "designer mention",
-      "count": 17,
-      "example": "Designer"
     },
     {
       "theme": "designer fashion",
@@ -687,6 +697,11 @@
       "example": "Gorgeous ❤️"
     },
     {
+      "theme": "designer style",
+      "count": 4,
+      "example": "Designer"
+    },
+    {
       "theme": "beautiful color",
       "count": 4,
       "example": "[Sticker] 🔥🔥🔥 that color 🔥🔥🔥"
@@ -755,23 +770,18 @@
       "theme": "elegant design",
       "count": 3,
       "example": "Graceful"
-    },
-    {
-      "theme": "link and price",
-      "count": 3,
-      "example": "Link n pp"
     }
   ],
   "top_commenters": [
     {
       "author": "meena_ji1506",
       "platform": "instagram",
-      "count": 58
+      "count": 59
     },
     {
       "author": "Meena Shah",
       "platform": "facebook",
-      "count": 43
+      "count": 44
     },
     {
       "author": "azafashions",
@@ -899,6 +909,11 @@
       "count": 8
     },
     {
+      "author": "klistel.official",
+      "platform": "instagram",
+      "count": 7
+    },
+    {
       "author": "katsircar",
       "platform": "tiktok",
       "count": 7
@@ -979,8 +994,8 @@
       "count": 7
     },
     {
-      "author": "klistel.official",
-      "platform": "instagram",
+      "author": "lineup-sweep",
+      "platform": "reddit",
       "count": 6
     },
     {
@@ -1007,11 +1022,6 @@
       "author": "ashleykumar371",
       "platform": "tiktok",
       "count": 6
-    },
-    {
-      "author": "shaheedshama0",
-      "platform": "tiktok",
-      "count": 6
     }
   ],
   "reddit_subreddits": [
@@ -1021,13 +1031,18 @@
       "dominant_sentiment": "neutral"
     },
     {
+      "subreddit": "lineup_sweep",
+      "count": 6,
+      "dominant_sentiment": null
+    },
+    {
       "subreddit": "BollywoodFashion",
       "count": 5,
       "dominant_sentiment": "neutral"
     },
     {
-      "subreddit": "lineup_sweep",
-      "count": 5,
+      "subreddit": "Zookeeping",
+      "count": 2,
       "dominant_sentiment": null
     },
     {
@@ -1044,7 +1059,12 @@
       "subreddit": "fpv",
       "count": 1,
       "dominant_sentiment": null
+    },
+    {
+      "subreddit": "u_lokmanavm",
+      "count": 1,
+      "dominant_sentiment": null
     }
   ],
-  "reddit_uncertain_count": 25
+  "reddit_uncertain_count": 29
 }
