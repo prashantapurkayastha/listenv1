@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T05:46:44Z",
+  "generated_at": "2026-10-23T05:52:36Z",
   "platforms": [
     "instagram",
     "facebook",
@@ -54,7 +54,8 @@
       "2026-09-27",
       "2026-09-28",
       "2026-09-29",
-      "2026-09-30"
+      "2026-09-30",
+      "2026-10-23"
     ],
     "facebook": [
       "2026-04-22",
@@ -93,7 +94,8 @@
       "2026-09-25",
       "2026-09-26",
       "2026-09-28",
-      "2026-09-30"
+      "2026-09-30",
+      "2026-10-23"
     ],
     "reddit": [
       "2026-04-23",
@@ -136,7 +138,8 @@
       "2026-09-25",
       "2026-09-26",
       "2026-09-27",
-      "2026-09-28"
+      "2026-09-28",
+      "2026-10-23"
     ]
   },
   "volume_by_day": [
@@ -489,12 +492,19 @@
       "facebook": 2,
       "reddit": 4,
       "tiktok": 0
+    },
+    {
+      "date": "2026-10-23",
+      "instagram": 5,
+      "facebook": 1,
+      "reddit": 0,
+      "tiktok": 5
     }
   ],
   "sentiment_by_platform": {
     "instagram": {
-      "neutral": 320,
-      "positive": 180,
+      "neutral": 321,
+      "positive": 183,
       "negative": 10
     },
     "facebook": {
@@ -509,16 +519,17 @@
     },
     "tiktok": {
       "neutral": 102,
-      "positive": 174,
+      "positive": 179,
       "negative": 1
     }
   },
   "predefined_topics": {
     "pricing": 131,
-    "style": 358,
-    "authenticity": 32,
+    "style": 363,
+    "authenticity": 33,
     "customer-service": 18,
-    "shipping": 6
+    "shipping": 6,
+    "sizing": 1
   },
   "auto_themes": [
     {
@@ -543,7 +554,7 @@
     },
     {
       "theme": "beautiful design",
-      "count": 23,
+      "count": 24,
       "example": "Beautiful"
     },
     {
@@ -567,14 +578,14 @@
       "example": "Link"
     },
     {
+      "theme": "general positive feedback",
+      "count": 17,
+      "example": "Verygood ❤️"
+    },
+    {
       "theme": "designer fashion",
       "count": 16,
       "example": "Designer"
-    },
-    {
-      "theme": "general positive feedback",
-      "count": 15,
-      "example": "Verygood ❤️"
     },
     {
       "theme": "brand label",
@@ -677,6 +688,11 @@
       "example": "Awesome 👏 beautiful"
     },
     {
+      "theme": "pretty styling suggestion",
+      "count": 5,
+      "example": "Very pretty 😇✨ Add a nose ring for a whole new vibe 💅🔥 💖"
+    },
+    {
       "theme": "celebrity mention",
       "count": 4,
       "example": "Krithi shetty 😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍"
@@ -732,11 +748,6 @@
       "example": "Michael Jackson would sign bad, right about that"
     },
     {
-      "theme": "pretty styling suggestion",
-      "count": 4,
-      "example": "Very pretty 😇✨ Add a nose ring for a whole new vibe 💅🔥 💖"
-    },
-    {
       "theme": "Price query",
       "count": 3,
       "example": "Pp"
@@ -776,7 +787,7 @@
     {
       "author": "meena_ji1506",
       "platform": "instagram",
-      "count": 59
+      "count": 60
     },
     {
       "author": "Meena Shah",
@@ -791,7 +802,7 @@
     {
       "author": "aniljolly1",
       "platform": "instagram",
-      "count": 20
+      "count": 22
     },
     {
       "author": "azaylia66",
@@ -806,7 +817,7 @@
     {
       "author": "andidrums",
       "platform": "tiktok",
-      "count": 14
+      "count": 15
     },
     {
       "author": "kaurnavpreet1376",
@@ -994,6 +1005,21 @@
       "count": 7
     },
     {
+      "author": "madhurijoshi66",
+      "platform": "tiktok",
+      "count": 7
+    },
+    {
+      "author": "shakilamangroo3",
+      "platform": "tiktok",
+      "count": 7
+    },
+    {
+      "author": "ayubbaig3",
+      "platform": "tiktok",
+      "count": 7
+    },
+    {
       "author": "lineup-sweep",
       "platform": "reddit",
       "count": 6
@@ -1005,21 +1031,6 @@
     },
     {
       "author": "dhinadale",
-      "platform": "tiktok",
-      "count": 6
-    },
-    {
-      "author": "niki02488",
-      "platform": "tiktok",
-      "count": 6
-    },
-    {
-      "author": "naziradhundass",
-      "platform": "tiktok",
-      "count": 6
-    },
-    {
-      "author": "ashleykumar371",
       "platform": "tiktok",
       "count": 6
     }
