@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T05:52:36Z",
+  "generated_at": "2026-10-24T05:31:05Z",
   "platforms": [
     "instagram",
     "facebook",
@@ -55,7 +55,8 @@
       "2026-09-28",
       "2026-09-29",
       "2026-09-30",
-      "2026-10-23"
+      "2026-10-23",
+      "2026-10-24"
     ],
     "facebook": [
       "2026-04-22",
@@ -95,7 +96,8 @@
       "2026-09-26",
       "2026-09-28",
       "2026-09-30",
-      "2026-10-23"
+      "2026-10-23",
+      "2026-10-24"
     ],
     "reddit": [
       "2026-04-23",
@@ -139,7 +141,8 @@
       "2026-09-26",
       "2026-09-27",
       "2026-09-28",
-      "2026-10-23"
+      "2026-10-23",
+      "2026-10-24"
     ]
   },
   "volume_by_day": [
@@ -499,16 +502,23 @@
       "facebook": 1,
       "reddit": 0,
       "tiktok": 5
+    },
+    {
+      "date": "2026-10-24",
+      "instagram": 16,
+      "facebook": 1,
+      "reddit": 0,
+      "tiktok": 5
     }
   ],
   "sentiment_by_platform": {
     "instagram": {
-      "neutral": 321,
-      "positive": 183,
+      "neutral": 323,
+      "positive": 189,
       "negative": 10
     },
     "facebook": {
-      "positive": 50,
+      "positive": 51,
       "neutral": 7,
       "negative": 9
     },
@@ -519,17 +529,17 @@
     },
     "tiktok": {
       "neutral": 102,
-      "positive": 179,
+      "positive": 184,
       "negative": 1
     }
   },
   "predefined_topics": {
     "pricing": 131,
-    "style": 363,
+    "style": 369,
     "authenticity": 33,
     "customer-service": 18,
     "shipping": 6,
-    "sizing": 1
+    "sizing": 2
   },
   "auto_themes": [
     {
@@ -554,7 +564,7 @@
     },
     {
       "theme": "beautiful design",
-      "count": 24,
+      "count": 25,
       "example": "Beautiful"
     },
     {
@@ -608,6 +618,11 @@
       "example": "Designer"
     },
     {
+      "theme": "general positive",
+      "count": 8,
+      "example": "Wow"
+    },
+    {
       "theme": "placeholder comment",
       "count": 8,
       "example": "Pp"
@@ -626,6 +641,11 @@
       "theme": "request link",
       "count": 7,
       "example": "Link"
+    },
+    {
+      "theme": "outfit appreciation",
+      "count": 7,
+      "example": "@tanishtaaa owning the fit😍"
     },
     {
       "theme": "ravishing look",
@@ -648,19 +668,14 @@
       "example": "Gorgeous"
     },
     {
-      "theme": "general positive",
-      "count": 6,
-      "example": "Wow"
-    },
-    {
-      "theme": "outfit appreciation",
-      "count": 6,
-      "example": "Love your outfit"
-    },
-    {
       "theme": "product link inquiry",
       "count": 5,
       "example": "Link"
+    },
+    {
+      "theme": "gorgeous design",
+      "count": 5,
+      "example": "Gorgeous ❤️"
     },
     {
       "theme": "meaningless comment",
@@ -706,11 +721,6 @@
       "theme": "beautiful style",
       "count": 4,
       "example": "Beautiful ❤️❤️"
-    },
-    {
-      "theme": "gorgeous design",
-      "count": 4,
-      "example": "Gorgeous ❤️"
     },
     {
       "theme": "designer style",
@@ -792,7 +802,7 @@
     {
       "author": "Meena Shah",
       "platform": "facebook",
-      "count": 44
+      "count": 45
     },
     {
       "author": "azafashions",
@@ -810,12 +820,12 @@
       "count": 16
     },
     {
-      "author": "itsshellyjee",
+      "author": "andidrums",
       "platform": "tiktok",
-      "count": 15
+      "count": 16
     },
     {
-      "author": "andidrums",
+      "author": "itsshellyjee",
       "platform": "tiktok",
       "count": 15
     },
@@ -920,6 +930,21 @@
       "count": 8
     },
     {
+      "author": "madhurijoshi66",
+      "platform": "tiktok",
+      "count": 8
+    },
+    {
+      "author": "shakilamangroo3",
+      "platform": "tiktok",
+      "count": 8
+    },
+    {
+      "author": "ayubbaig3",
+      "platform": "tiktok",
+      "count": 8
+    },
+    {
       "author": "klistel.official",
       "platform": "instagram",
       "count": 7
@@ -1001,21 +1026,6 @@
     },
     {
       "author": "gghjjj340",
-      "platform": "tiktok",
-      "count": 7
-    },
-    {
-      "author": "madhurijoshi66",
-      "platform": "tiktok",
-      "count": 7
-    },
-    {
-      "author": "shakilamangroo3",
-      "platform": "tiktok",
-      "count": 7
-    },
-    {
-      "author": "ayubbaig3",
       "platform": "tiktok",
       "count": 7
     },
