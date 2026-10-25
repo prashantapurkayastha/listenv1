@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T05:31:05Z",
+  "generated_at": "2026-10-25T05:47:30Z",
   "platforms": [
     "instagram",
     "facebook",
@@ -56,7 +56,8 @@
       "2026-09-29",
       "2026-09-30",
       "2026-10-23",
-      "2026-10-24"
+      "2026-10-24",
+      "2026-10-25"
     ],
     "facebook": [
       "2026-04-22",
@@ -97,7 +98,8 @@
       "2026-09-28",
       "2026-09-30",
       "2026-10-23",
-      "2026-10-24"
+      "2026-10-24",
+      "2026-10-25"
     ],
     "reddit": [
       "2026-04-23",
@@ -142,7 +144,8 @@
       "2026-09-27",
       "2026-09-28",
       "2026-10-23",
-      "2026-10-24"
+      "2026-10-24",
+      "2026-10-25"
     ]
   },
   "volume_by_day": [
@@ -509,16 +512,23 @@
       "facebook": 1,
       "reddit": 0,
       "tiktok": 5
+    },
+    {
+      "date": "2026-10-25",
+      "instagram": 18,
+      "facebook": 5,
+      "reddit": 0,
+      "tiktok": 5
     }
   ],
   "sentiment_by_platform": {
     "instagram": {
-      "neutral": 323,
-      "positive": 189,
+      "neutral": 325,
+      "positive": 194,
       "negative": 10
     },
     "facebook": {
-      "positive": 51,
+      "positive": 53,
       "neutral": 7,
       "negative": 9
     },
@@ -529,17 +539,17 @@
     },
     "tiktok": {
       "neutral": 102,
-      "positive": 184,
+      "positive": 189,
       "negative": 1
     }
   },
   "predefined_topics": {
     "pricing": 131,
-    "style": 369,
+    "style": 375,
     "authenticity": 33,
     "customer-service": 18,
     "shipping": 6,
-    "sizing": 2
+    "sizing": 3
   },
   "auto_themes": [
     {
@@ -558,14 +568,14 @@
       "example": "which designer is this ?;"
     },
     {
+      "theme": "beautiful design",
+      "count": 26,
+      "example": "Beautiful"
+    },
+    {
       "theme": "positive reaction",
       "count": 25,
       "example": "❤️❤️"
-    },
-    {
-      "theme": "beautiful design",
-      "count": 25,
-      "example": "Beautiful"
     },
     {
       "theme": "general appreciation",
@@ -578,6 +588,11 @@
       "example": "Pp"
     },
     {
+      "theme": "general positive feedback",
+      "count": 19,
+      "example": "Verygood ❤️"
+    },
+    {
       "theme": "fashion designer",
       "count": 19,
       "example": "Designer"
@@ -586,11 +601,6 @@
       "theme": "product link request",
       "count": 17,
       "example": "Link"
-    },
-    {
-      "theme": "general positive feedback",
-      "count": 17,
-      "example": "Verygood ❤️"
     },
     {
       "theme": "designer fashion",
@@ -802,7 +812,7 @@
     {
       "author": "Meena Shah",
       "platform": "facebook",
-      "count": 45
+      "count": 47
     },
     {
       "author": "azafashions",
@@ -812,15 +822,15 @@
     {
       "author": "aniljolly1",
       "platform": "instagram",
-      "count": 22
-    },
-    {
-      "author": "azaylia66",
-      "platform": "tiktok",
-      "count": 16
+      "count": 24
     },
     {
       "author": "andidrums",
+      "platform": "tiktok",
+      "count": 17
+    },
+    {
+      "author": "azaylia66",
       "platform": "tiktok",
       "count": 16
     },
@@ -915,6 +925,21 @@
       "count": 9
     },
     {
+      "author": "madhurijoshi66",
+      "platform": "tiktok",
+      "count": 9
+    },
+    {
+      "author": "shakilamangroo3",
+      "platform": "tiktok",
+      "count": 9
+    },
+    {
+      "author": "ayubbaig3",
+      "platform": "tiktok",
+      "count": 9
+    },
+    {
       "author": "Ekta Sharma",
       "platform": "facebook",
       "count": 8
@@ -926,21 +951,6 @@
     },
     {
       "author": "hr07haryana7",
-      "platform": "tiktok",
-      "count": 8
-    },
-    {
-      "author": "madhurijoshi66",
-      "platform": "tiktok",
-      "count": 8
-    },
-    {
-      "author": "shakilamangroo3",
-      "platform": "tiktok",
-      "count": 8
-    },
-    {
-      "author": "ayubbaig3",
       "platform": "tiktok",
       "count": 8
     },
