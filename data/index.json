@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T05:47:30Z",
+  "generated_at": "2026-10-26T05:54:03Z",
   "platforms": [
     "instagram",
     "facebook",
@@ -57,7 +57,8 @@
       "2026-09-30",
       "2026-10-23",
       "2026-10-24",
-      "2026-10-25"
+      "2026-10-25",
+      "2026-10-26"
     ],
     "facebook": [
       "2026-04-22",
@@ -145,7 +146,8 @@
       "2026-09-28",
       "2026-10-23",
       "2026-10-24",
-      "2026-10-25"
+      "2026-10-25",
+      "2026-10-26"
     ]
   },
   "volume_by_day": [
@@ -519,12 +521,19 @@
       "facebook": 5,
       "reddit": 0,
       "tiktok": 5
+    },
+    {
+      "date": "2026-10-26",
+      "instagram": 9,
+      "facebook": 0,
+      "reddit": 0,
+      "tiktok": 5
     }
   ],
   "sentiment_by_platform": {
     "instagram": {
-      "neutral": 325,
-      "positive": 194,
+      "neutral": 326,
+      "positive": 198,
       "negative": 10
     },
     "facebook": {
@@ -539,17 +548,17 @@
     },
     "tiktok": {
       "neutral": 102,
-      "positive": 189,
+      "positive": 194,
       "negative": 1
     }
   },
   "predefined_topics": {
     "pricing": 131,
-    "style": 375,
-    "authenticity": 33,
+    "style": 381,
+    "authenticity": 34,
     "customer-service": 18,
     "shipping": 6,
-    "sizing": 3
+    "sizing": 4
   },
   "auto_themes": [
     {
@@ -569,7 +578,7 @@
     },
     {
       "theme": "beautiful design",
-      "count": 26,
+      "count": 28,
       "example": "Beautiful"
     },
     {
@@ -648,6 +657,11 @@
       "example": "😍😍😍"
     },
     {
+      "theme": "gorgeous style",
+      "count": 7,
+      "example": "Gorgeous"
+    },
+    {
       "theme": "request link",
       "count": 7,
       "example": "Link"
@@ -673,9 +687,9 @@
       "example": "[Sticker] Love"
     },
     {
-      "theme": "gorgeous style",
+      "theme": "pretty styling suggestion",
       "count": 6,
-      "example": "Gorgeous"
+      "example": "Very pretty 😇✨ Add a nose ring for a whole new vibe 💅🔥 💖"
     },
     {
       "theme": "product link inquiry",
@@ -711,11 +725,6 @@
       "theme": "awesome beautiful look",
       "count": 5,
       "example": "Awesome 👏 beautiful"
-    },
-    {
-      "theme": "pretty styling suggestion",
-      "count": 5,
-      "example": "Very pretty 😇✨ Add a nose ring for a whole new vibe 💅🔥 💖"
     },
     {
       "theme": "celebrity mention",
@@ -768,6 +777,11 @@
       "example": "Michael Jackson would sign bad, right about that"
     },
     {
+      "theme": "perfect fit",
+      "count": 4,
+      "example": "thats what we call - perfect fit rani"
+    },
+    {
       "theme": "Price query",
       "count": 3,
       "example": "Pp"
@@ -796,18 +810,13 @@
       "theme": "request price",
       "count": 3,
       "example": "Pp"
-    },
-    {
-      "theme": "elegant design",
-      "count": 3,
-      "example": "Graceful"
     }
   ],
   "top_commenters": [
     {
       "author": "meena_ji1506",
       "platform": "instagram",
-      "count": 60
+      "count": 63
     },
     {
       "author": "Meena Shah",
@@ -822,12 +831,12 @@
     {
       "author": "aniljolly1",
       "platform": "instagram",
-      "count": 24
+      "count": 26
     },
     {
       "author": "andidrums",
       "platform": "tiktok",
-      "count": 17
+      "count": 18
     },
     {
       "author": "azaylia66",
@@ -866,6 +875,21 @@
     },
     {
       "author": "monaachari1",
+      "platform": "tiktok",
+      "count": 10
+    },
+    {
+      "author": "madhurijoshi66",
+      "platform": "tiktok",
+      "count": 10
+    },
+    {
+      "author": "shakilamangroo3",
+      "platform": "tiktok",
+      "count": 10
+    },
+    {
+      "author": "ayubbaig3",
       "platform": "tiktok",
       "count": 10
     },
@@ -925,21 +949,6 @@
       "count": 9
     },
     {
-      "author": "madhurijoshi66",
-      "platform": "tiktok",
-      "count": 9
-    },
-    {
-      "author": "shakilamangroo3",
-      "platform": "tiktok",
-      "count": 9
-    },
-    {
-      "author": "ayubbaig3",
-      "platform": "tiktok",
-      "count": 9
-    },
-    {
       "author": "Ekta Sharma",
       "platform": "facebook",
       "count": 8
@@ -956,6 +965,11 @@
     },
     {
       "author": "klistel.official",
+      "platform": "instagram",
+      "count": 7
+    },
+    {
+      "author": "nabarkumar364",
       "platform": "instagram",
       "count": 7
     },
@@ -1040,18 +1054,13 @@
       "count": 7
     },
     {
+      "author": "bhavinii.j",
+      "platform": "instagram",
+      "count": 6
+    },
+    {
       "author": "lineup-sweep",
       "platform": "reddit",
-      "count": 6
-    },
-    {
-      "author": "kalpana_kadel",
-      "platform": "tiktok",
-      "count": 6
-    },
-    {
-      "author": "dhinadale",
-      "platform": "tiktok",
       "count": 6
     }
   ],
