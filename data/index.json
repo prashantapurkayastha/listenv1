@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T05:54:03Z",
+  "generated_at": "2026-10-27T06:08:45Z",
   "platforms": [
     "instagram",
     "facebook",
@@ -58,7 +58,8 @@
       "2026-10-23",
       "2026-10-24",
       "2026-10-25",
-      "2026-10-26"
+      "2026-10-26",
+      "2026-10-27"
     ],
     "facebook": [
       "2026-04-22",
@@ -100,7 +101,8 @@
       "2026-09-30",
       "2026-10-23",
       "2026-10-24",
-      "2026-10-25"
+      "2026-10-25",
+      "2026-10-27"
     ],
     "reddit": [
       "2026-04-23",
@@ -147,7 +149,8 @@
       "2026-10-23",
       "2026-10-24",
       "2026-10-25",
-      "2026-10-26"
+      "2026-10-26",
+      "2026-10-27"
     ]
   },
   "volume_by_day": [
@@ -528,6 +531,13 @@
       "facebook": 0,
       "reddit": 0,
       "tiktok": 5
+    },
+    {
+      "date": "2026-10-27",
+      "instagram": 8,
+      "facebook": 1,
+      "reddit": 0,
+      "tiktok": 2
     }
   ],
   "sentiment_by_platform": {
@@ -548,17 +558,17 @@
     },
     "tiktok": {
       "neutral": 102,
-      "positive": 194,
+      "positive": 196,
       "negative": 1
     }
   },
   "predefined_topics": {
     "pricing": 131,
-    "style": 381,
+    "style": 382,
     "authenticity": 34,
     "customer-service": 18,
     "shipping": 6,
-    "sizing": 4
+    "sizing": 5
   },
   "auto_themes": [
     {
@@ -727,6 +737,11 @@
       "example": "Awesome 👏 beautiful"
     },
     {
+      "theme": "perfect fit",
+      "count": 5,
+      "example": "thats what we call - perfect fit rani"
+    },
+    {
       "theme": "celebrity mention",
       "count": 4,
       "example": "Krithi shetty 😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍"
@@ -777,11 +792,6 @@
       "example": "Michael Jackson would sign bad, right about that"
     },
     {
-      "theme": "perfect fit",
-      "count": 4,
-      "example": "thats what we call - perfect fit rani"
-    },
-    {
       "theme": "Price query",
       "count": 3,
       "example": "Pp"
@@ -816,12 +826,12 @@
     {
       "author": "meena_ji1506",
       "platform": "instagram",
-      "count": 63
+      "count": 64
     },
     {
       "author": "Meena Shah",
       "platform": "facebook",
-      "count": 47
+      "count": 48
     },
     {
       "author": "azafashions",
@@ -831,12 +841,12 @@
     {
       "author": "aniljolly1",
       "platform": "instagram",
-      "count": 26
+      "count": 27
     },
     {
       "author": "andidrums",
       "platform": "tiktok",
-      "count": 18
+      "count": 19
     },
     {
       "author": "azaylia66",
@@ -872,6 +882,11 @@
       "author": "deepbkhi0qc",
       "platform": "tiktok",
       "count": 11
+    },
+    {
+      "author": "nabarkumar364",
+      "platform": "instagram",
+      "count": 10
     },
     {
       "author": "monaachari1",
@@ -965,11 +980,6 @@
     },
     {
       "author": "klistel.official",
-      "platform": "instagram",
-      "count": 7
-    },
-    {
-      "author": "nabarkumar364",
       "platform": "instagram",
       "count": 7
     },
