@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T06:08:45Z",
+  "generated_at": "2026-10-28T06:45:26Z",
   "platforms": [
     "instagram",
     "facebook",
@@ -59,7 +59,8 @@
       "2026-10-24",
       "2026-10-25",
       "2026-10-26",
-      "2026-10-27"
+      "2026-10-27",
+      "2026-10-28"
     ],
     "facebook": [
       "2026-04-22",
@@ -150,7 +151,8 @@
       "2026-10-24",
       "2026-10-25",
       "2026-10-26",
-      "2026-10-27"
+      "2026-10-27",
+      "2026-10-28"
     ]
   },
   "volume_by_day": [
@@ -538,12 +540,19 @@
       "facebook": 1,
       "reddit": 0,
       "tiktok": 2
+    },
+    {
+      "date": "2026-10-28",
+      "instagram": 3,
+      "facebook": 0,
+      "reddit": 0,
+      "tiktok": 1
     }
   ],
   "sentiment_by_platform": {
     "instagram": {
       "neutral": 326,
-      "positive": 198,
+      "positive": 199,
       "negative": 10
     },
     "facebook": {
@@ -558,17 +567,17 @@
     },
     "tiktok": {
       "neutral": 102,
-      "positive": 196,
+      "positive": 197,
       "negative": 1
     }
   },
   "predefined_topics": {
     "pricing": 131,
-    "style": 382,
+    "style": 383,
     "authenticity": 34,
     "customer-service": 18,
     "shipping": 6,
-    "sizing": 5
+    "sizing": 6
   },
   "auto_themes": [
     {
@@ -702,6 +711,11 @@
       "example": "Very pretty 😇✨ Add a nose ring for a whole new vibe 💅🔥 💖"
     },
     {
+      "theme": "perfect fit",
+      "count": 6,
+      "example": "thats what we call - perfect fit rani"
+    },
+    {
       "theme": "product link inquiry",
       "count": 5,
       "example": "Link"
@@ -735,11 +749,6 @@
       "theme": "awesome beautiful look",
       "count": 5,
       "example": "Awesome 👏 beautiful"
-    },
-    {
-      "theme": "perfect fit",
-      "count": 5,
-      "example": "thats what we call - perfect fit rani"
     },
     {
       "theme": "celebrity mention",
@@ -826,7 +835,7 @@
     {
       "author": "meena_ji1506",
       "platform": "instagram",
-      "count": 64
+      "count": 65
     },
     {
       "author": "Meena Shah",
@@ -874,6 +883,11 @@
       "count": 13
     },
     {
+      "author": "nabarkumar364",
+      "platform": "instagram",
+      "count": 11
+    },
+    {
       "author": "vikram1157",
       "platform": "tiktok",
       "count": 11
@@ -882,11 +896,6 @@
       "author": "deepbkhi0qc",
       "platform": "tiktok",
       "count": 11
-    },
-    {
-      "author": "nabarkumar364",
-      "platform": "instagram",
-      "count": 10
     },
     {
       "author": "monaachari1",

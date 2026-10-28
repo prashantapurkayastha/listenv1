@@ -1,0 +1,53 @@
+[
+  {
+    "id": "ig_18125759830953065",
+    "platform": "instagram",
+    "handle": "@azafashions",
+    "post_url": "https://www.instagram.com/p/De_j_uvjb-A/",
+    "parent_comment_id": null,
+    "author": "sumanrajpal60",
+    "text": "👌👌👌",
+    "language": "non-english",
+    "like_count": 0,
+    "reply_count": 0,
+    "captured_at": "2026-10-28T06:39:46Z",
+    "posted_at": "2026-10-27T17:13:33.000Z",
+    "sentiment": null,
+    "topic_predefined": null,
+    "topic_auto": null
+  },
+  {
+    "id": "ig_18079393361735224",
+    "platform": "instagram",
+    "handle": "@azafashions",
+    "post_url": "https://www.instagram.com/p/DfARp71tLT_/",
+    "parent_comment_id": null,
+    "author": "meena_ji1506",
+    "text": "Fabulous",
+    "language": "english",
+    "like_count": 0,
+    "reply_count": 0,
+    "captured_at": "2026-10-28T06:39:46Z",
+    "posted_at": "2026-10-28T01:22:55.000Z",
+    "sentiment": "positive",
+    "topic_predefined": "style",
+    "topic_auto": "fabulous style"
+  },
+  {
+    "id": "ig_18124289465295199",
+    "platform": "instagram",
+    "handle": "@azafashions",
+    "post_url": "https://www.instagram.com/p/DfARp71tLT_/",
+    "parent_comment_id": null,
+    "author": "nabarkumar364",
+    "text": "❤️❤️",
+    "language": "non-english",
+    "like_count": 0,
+    "reply_count": 0,
+    "captured_at": "2026-10-28T06:39:46Z",
+    "posted_at": "2026-10-27T19:13:36.000Z",
+    "sentiment": null,
+    "topic_predefined": null,
+    "topic_auto": null
+  }
+]
