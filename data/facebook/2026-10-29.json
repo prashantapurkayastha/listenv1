@@ -1,0 +1,36 @@
+[
+  {
+    "id": "fb_Y29tbWVudDoxNTkwODUyMjQzMDcwMDgzXzExMDE2NzQwOTI4NTUzMjY=",
+    "platform": "facebook",
+    "handle": "@AzaFashions",
+    "post_url": "https://www.facebook.com/reel/1062868360115314/",
+    "parent_comment_id": null,
+    "author": "Anwar Anwar",
+    "text": "🌹",
+    "language": "non-english",
+    "like_count": 1,
+    "reply_count": 0,
+    "captured_at": "2026-10-29T06:47:18Z",
+    "posted_at": "2026-10-29T04:50:09.000Z",
+    "sentiment": null,
+    "topic_predefined": null,
+    "topic_auto": null
+  },
+  {
+    "id": "fb_Y29tbWVudDoxNTkwNDg4OTM2NDM5NzQ3XzExMjQyNzE2MjY4NTQyMjg=",
+    "platform": "facebook",
+    "handle": "@AzaFashions",
+    "post_url": "https://www.facebook.com/reel/1471977534852218/",
+    "parent_comment_id": null,
+    "author": "Anwar Anwar",
+    "text": "💐🌺",
+    "language": "non-english",
+    "like_count": 1,
+    "reply_count": 0,
+    "captured_at": "2026-10-29T06:47:18Z",
+    "posted_at": "2026-10-28T12:03:15.000Z",
+    "sentiment": null,
+    "topic_predefined": null,
+    "topic_auto": null
+  }
+]

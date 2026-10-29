@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T06:45:26Z",
+  "generated_at": "2026-10-29T06:49:56Z",
   "platforms": [
     "instagram",
     "facebook",
@@ -60,7 +60,8 @@
       "2026-10-25",
       "2026-10-26",
       "2026-10-27",
-      "2026-10-28"
+      "2026-10-28",
+      "2026-10-29"
     ],
     "facebook": [
       "2026-04-22",
@@ -103,7 +104,8 @@
       "2026-10-23",
       "2026-10-24",
       "2026-10-25",
-      "2026-10-27"
+      "2026-10-27",
+      "2026-10-29"
     ],
     "reddit": [
       "2026-04-23",
@@ -152,7 +154,8 @@
       "2026-10-25",
       "2026-10-26",
       "2026-10-27",
-      "2026-10-28"
+      "2026-10-28",
+      "2026-10-29"
     ]
   },
   "volume_by_day": [
@@ -547,12 +550,19 @@
       "facebook": 0,
       "reddit": 0,
       "tiktok": 1
+    },
+    {
+      "date": "2026-10-29",
+      "instagram": 19,
+      "facebook": 2,
+      "reddit": 0,
+      "tiktok": 1
     }
   ],
   "sentiment_by_platform": {
     "instagram": {
-      "neutral": 326,
-      "positive": 199,
+      "neutral": 338,
+      "positive": 204,
       "negative": 10
     },
     "facebook": {
@@ -567,17 +577,17 @@
     },
     "tiktok": {
       "neutral": 102,
-      "positive": 197,
+      "positive": 198,
       "negative": 1
     }
   },
   "predefined_topics": {
     "pricing": 131,
-    "style": 383,
+    "style": 388,
     "authenticity": 34,
     "customer-service": 18,
     "shipping": 6,
-    "sizing": 6
+    "sizing": 7
   },
   "auto_themes": [
     {
@@ -587,7 +597,7 @@
     },
     {
       "theme": "designer mention",
-      "count": 39,
+      "count": 51,
       "example": "Designer"
     },
     {
@@ -706,14 +716,14 @@
       "example": "[Sticker] Love"
     },
     {
+      "theme": "perfect fit",
+      "count": 7,
+      "example": "thats what we call - perfect fit rani"
+    },
+    {
       "theme": "pretty styling suggestion",
       "count": 6,
       "example": "Very pretty 😇✨ Add a nose ring for a whole new vibe 💅🔥 💖"
-    },
-    {
-      "theme": "perfect fit",
-      "count": 6,
-      "example": "thats what we call - perfect fit rani"
     },
     {
       "theme": "product link inquiry",
@@ -764,6 +774,11 @@
       "theme": "beautiful style",
       "count": 4,
       "example": "Beautiful ❤️❤️"
+    },
+    {
+      "theme": "very good",
+      "count": 4,
+      "example": "Very good ❤️"
     },
     {
       "theme": "designer style",
@@ -824,18 +839,13 @@
       "theme": "very beautiful",
       "count": 3,
       "example": "So Beautiful 🥰😍💕"
-    },
-    {
-      "theme": "request price",
-      "count": 3,
-      "example": "Pp"
     }
   ],
   "top_commenters": [
     {
       "author": "meena_ji1506",
       "platform": "instagram",
-      "count": 65
+      "count": 67
     },
     {
       "author": "Meena Shah",
@@ -850,7 +860,7 @@
     {
       "author": "aniljolly1",
       "platform": "instagram",
-      "count": 27
+      "count": 28
     },
     {
       "author": "andidrums",
@@ -878,14 +888,14 @@
       "count": 14
     },
     {
-      "author": "reena.seeboruth1",
-      "platform": "tiktok",
+      "author": "nabarkumar364",
+      "platform": "instagram",
       "count": 13
     },
     {
-      "author": "nabarkumar364",
-      "platform": "instagram",
-      "count": 11
+      "author": "reena.seeboruth1",
+      "platform": "tiktok",
+      "count": 13
     },
     {
       "author": "vikram1157",
@@ -988,6 +998,11 @@
       "count": 8
     },
     {
+      "author": "bhavinii.j",
+      "platform": "instagram",
+      "count": 7
+    },
+    {
       "author": "klistel.official",
       "platform": "instagram",
       "count": 7
@@ -1073,14 +1088,9 @@
       "count": 7
     },
     {
-      "author": "bhavinii.j",
-      "platform": "instagram",
-      "count": 6
-    },
-    {
-      "author": "lineup-sweep",
-      "platform": "reddit",
-      "count": 6
+      "author": "tradenyxincorpora",
+      "platform": "tiktok",
+      "count": 7
     }
   ],
   "reddit_subreddits": [
