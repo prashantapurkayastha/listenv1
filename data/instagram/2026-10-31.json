@@ -1,0 +1,36 @@
+[
+  {
+    "id": "ig_18152941117542691",
+    "platform": "instagram",
+    "handle": "@azafashions",
+    "post_url": "https://www.instagram.com/p/DfHOobjjc57/",
+    "parent_comment_id": null,
+    "author": "shefali26.2017",
+    "text": "Designer",
+    "language": "english",
+    "like_count": 0,
+    "reply_count": 0,
+    "captured_at": "2026-10-31T06:40:11Z",
+    "posted_at": "2026-10-31T05:03:35.000Z",
+    "sentiment": "neutral",
+    "topic_predefined": "style",
+    "topic_auto": "fashion designer"
+  },
+  {
+    "id": "ig_18129985058299181",
+    "platform": "instagram",
+    "handle": "@azafashions",
+    "post_url": "https://www.instagram.com/p/DfHOobjjc57/",
+    "parent_comment_id": null,
+    "author": "bharti.singh1410",
+    "text": "Designer and pp",
+    "language": "english",
+    "like_count": 2,
+    "reply_count": 0,
+    "captured_at": "2026-10-31T06:40:11Z",
+    "posted_at": "2026-10-31T04:25:04.000Z",
+    "sentiment": "neutral",
+    "topic_predefined": "pricing",
+    "topic_auto": "designer price inquiry"
+  }
+]

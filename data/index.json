@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T06:55:36Z",
+  "generated_at": "2026-10-31T06:40:25Z",
   "platforms": [
     "instagram",
     "facebook",
@@ -62,7 +62,8 @@
       "2026-10-27",
       "2026-10-28",
       "2026-10-29",
-      "2026-10-30"
+      "2026-10-30",
+      "2026-10-31"
     ],
     "facebook": [
       "2026-04-22",
@@ -566,11 +567,18 @@
       "facebook": 0,
       "reddit": 2,
       "tiktok": 0
+    },
+    {
+      "date": "2026-10-31",
+      "instagram": 2,
+      "facebook": 0,
+      "reddit": 0,
+      "tiktok": 0
     }
   ],
   "sentiment_by_platform": {
     "instagram": {
-      "neutral": 352,
+      "neutral": 354,
       "positive": 208,
       "negative": 10
     },
@@ -591,8 +599,8 @@
     }
   },
   "predefined_topics": {
-    "pricing": 131,
-    "style": 402,
+    "pricing": 132,
+    "style": 403,
     "authenticity": 34,
     "customer-service": 18,
     "shipping": 6,
@@ -640,14 +648,14 @@
       "example": "Pp"
     },
     {
+      "theme": "fashion designer",
+      "count": 20,
+      "example": "Designer"
+    },
+    {
       "theme": "general positive feedback",
       "count": 19,
       "example": "Verygood ❤️"
-    },
-    {
-      "theme": "fashion designer",
-      "count": 19,
-      "example": "Designer"
     },
     {
       "theme": "product link request",
